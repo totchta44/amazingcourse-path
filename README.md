@@ -1,0 +1,2 @@
+# amazingcourse-path
+amazingCourse
